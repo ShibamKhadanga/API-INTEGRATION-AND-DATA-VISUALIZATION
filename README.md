@@ -33,7 +33,7 @@ DESCRIPTION OF TASK
    - **Matplotlib Dates (`mdates`)**: Manages date and time formatting to ensure clear, non-overlapping x-axis labels.
 
 # OUTPUT OF THE TASK 
-
+![Image](https://github.com/user-attachments/assets/370c9b48-780b-4be7-b35c-ae9af6370651)
 
 
 
